@@ -1,6 +1,7 @@
 # fraud-vehicule
 
-CHECK IF THE 
+Detect if publication of selling car is spam or not
+
 
 ## Common setup
 
