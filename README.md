@@ -1,6 +1,15 @@
 # fraud-vehicule
 
-### TO Install the dépen
+CHECK IF THE 
+
+## Common setup
+
+Install the dependencies.
+
+
+```bash
+npm install
+```
 
 
 ### To Start the project from
